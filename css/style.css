@@ -4,7 +4,7 @@ body{
 .background-img{         
     margin: 0 auto ;       
     padding-top: 23px;
-    background: url(/images/pxfuel\ 1.png), lightgray -0.133px -194px / 100.014% 142.333% no-repeat;
+    background: url(/figma-design-end/images/pxfuel\ 1.png), lightgray -0.133px -194px / 100.014% 142.333% no-repeat;
     width: 1921px;
     height: 900px;
     flex-shrink: 0;
@@ -862,7 +862,7 @@ body{
     margin: 0 auto;
     width: 1921px;
     height: 400px;
-    background: url(/images-for-secondpage/bck-img2.png), lightgray 0px -296.052px / 100% 248.276% no-repeat;
+    background: url(/figma-design-end/images-for-secondpage/bck-img2.png), lightgray 0px -296.052px / 100% 248.276% no-repeat;
     background-size:cover ;
 }
 .page2-header{
